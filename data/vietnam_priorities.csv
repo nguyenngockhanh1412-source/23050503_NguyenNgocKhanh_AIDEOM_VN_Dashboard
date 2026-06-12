@@ -1,0 +1,24 @@
+parameter,value,description
+a_growth,0.15,Trọng số tăng trưởng ngành
+a_productivity,0.15,Trọng số năng suất
+a_spillover,0.20,Trọng số lan tỏa
+a_export,0.15,Trọng số xuất khẩu
+a_employment,0.10,Trọng số việc làm
+a_ai_readiness,0.20,Trọng số sẵn sàng AI
+a_risk,0.15,Trọng số rủi ro tự động hóa
+scenario_S1_K,0.70,Kịch bản truyền thống - vốn vật chất
+scenario_S1_D,0.10,Kịch bản truyền thống - số hóa
+scenario_S1_AI,0.10,Kịch bản truyền thống - AI
+scenario_S1_H,0.10,Kịch bản truyền thống - nhân lực
+scenario_S2_K,0.25,Kịch bản số hóa nhanh - vốn vật chất
+scenario_S2_D,0.45,Kịch bản số hóa nhanh - số hóa
+scenario_S2_AI,0.15,Kịch bản số hóa nhanh - AI
+scenario_S2_H,0.15,Kịch bản số hóa nhanh - nhân lực
+scenario_S3_K,0.20,Kịch bản AI dẫn dắt - vốn vật chất
+scenario_S3_D,0.20,Kịch bản AI dẫn dắt - số hóa
+scenario_S3_AI,0.45,Kịch bản AI dẫn dắt - AI
+scenario_S3_H,0.15,Kịch bản AI dẫn dắt - nhân lực
+scenario_S4_K,0.30,Kịch bản bao trùm số - vốn vật chất
+scenario_S4_D,0.20,Kịch bản bao trùm số - số hóa
+scenario_S4_AI,0.10,Kịch bản bao trùm số - AI
+scenario_S4_H,0.40,Kịch bản bao trùm số - nhân lực

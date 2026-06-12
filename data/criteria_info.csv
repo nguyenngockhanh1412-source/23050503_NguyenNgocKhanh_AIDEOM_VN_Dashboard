@@ -1,0 +1,23 @@
+﻿dataset,criterion,type,meaning
+regions_2024,grdp,benefit,Quy mô GRDP vùng
+regions_2024,grdp_per_capita,benefit,GRDP bình quân đầu người
+regions_2024,fdi,benefit,Thu hút vốn FDI
+regions_2024,export,benefit,Giá trị xuất khẩu
+regions_2024,digital_index,benefit,"Chỉ số chuyển đổi số tổng hợp, quy đổi thang 0-100"
+regions_2024,ai_readiness,benefit,"Chỉ số sẵn sàng AI tự xây dựng từ digital_index, trained_labor, rd"
+regions_2024,trained_labor,benefit,Tỷ lệ lao động qua đào tạo hoặc chỉ số nhân lực
+regions_2024,gini,cost,"Bất bình đẳng thu nhập, càng thấp càng tốt"
+regions_2024,rd,benefit,"Năng lực R&D/đổi mới sáng tạo, proxy 0-1"
+regions_2024,digital_gap,cost,Khoảng cách số = 100 - digital_index
+regions_2024,automation_risk,cost,Rủi ro tự động hóa proxy để dùng nếu bài yêu cầu
+macro_2020_2025,gdp,benefit,GDP/Quy mô kinh tế theo năm
+macro_2020_2025,capital,benefit,Vốn/đầu tư phát triển
+macro_2020_2025,labor,benefit,Lực lượng lao động
+macro_2020_2025,ai_investment,benefit,Đầu tư AI/số hóa proxy
+macro_2020_2025,digital_index,benefit,Chỉ số số hóa vĩ mô proxy
+sectors_2024,output,benefit,Quy mô đầu ra ngành
+sectors_2024,employment,benefit,Lao động ngành
+sectors_2024,productivity,benefit,Năng suất lao động ngành
+sectors_2024,digital_potential,benefit,Tiềm năng số hóa
+sectors_2024,ai_exposure,benefit,Mức độ tiếp xúc/ứng dụng AI
+sectors_2024,export_value,benefit,Giá trị xuất khẩu

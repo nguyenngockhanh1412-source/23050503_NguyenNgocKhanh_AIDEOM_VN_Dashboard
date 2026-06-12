@@ -1,0 +1,7 @@
+year,GDP_trillion_VND,gdp,capital,K,labor,L,digital_economy_pct,digital_index,D,AI_firms_thousand,ai_investment,trained_labor_pct,H,source_status
+2020,8044.4,8044.4,16500,16500,53.6,53.6,12.0,12.0,12.0,55.6,55.6,24.1,24.1,AIDEOM_dataset_rounded
+2021,8487.5,8487.5,17800,17800,50.5,50.5,12.7,12.7,12.7,60.2,60.2,26.1,26.1,AIDEOM_dataset_rounded
+2022,9513.3,9513.3,19600,19600,51.7,51.7,14.3,14.3,14.3,65.4,65.4,26.2,26.2,AIDEOM_dataset_rounded
+2023,10221.8,10221.8,21300,21300,52.4,52.4,16.5,16.5,16.5,67.0,67.0,27.0,27.0,AIDEOM_dataset_rounded
+2024,11511.9,11511.9,23500,23500,52.9,52.9,18.3,18.3,18.3,73.8,73.8,28.4,28.4,AIDEOM_dataset_rounded
+2025,12847.6,12847.6,25900,25900,53.4,53.4,19.5,19.5,19.5,80.1,80.1,29.2,29.2,AIDEOM_dataset_rounded
