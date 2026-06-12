@@ -1,0 +1,14 @@
+HUONG DAN MO APP AIDEOM-VN DASHBOARD
+
+1. Giai nen file zip.
+2. Mo thu muc 23050503_NguyenNgocKhanh_AIDEOM_VN_Dashboard.
+3. Bam dup vao file CHAY_APP.bat de cai thu vien va mo app.
+4. Neu trinh duyet khong tu mo, vao dia chi http://localhost:8501
+
+Cach chay bang lenh terminal neu can:
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
+
+Ghi chu:
+- Khong tat cua so CMD/Terminal khi dang dung app.
+- Neu muon dung app, quay lai CMD/Terminal va nhan Ctrl + C.
